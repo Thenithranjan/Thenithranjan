@@ -8,7 +8,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Artificial+Intelligence+Enthusiast;Problem+Solver;LeetCode+Ambassador;Always+Learning+New+Technologies"/>
 </p>
 
-
 ## 👨‍💻 About Me
 
 🎓 **B.E Computer Science & Engineering**
@@ -28,9 +27,7 @@
 
 🚀 Always exploring new technologies.
 
-🌐 **Portfolio :** [<img src="https://img.shields.io/badge/🚀%20Visit-8A2BE2?style=for-the-badge&logoColor=white" />](https://thenithranjan.web.app/)
-
-📫 **Email :**   [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](thenithranjan@gmail.com)
+🌐 **Portfolio :** [<img src="https://img.shields.io/badge/🚀%20Visit-8A2BE2?style=for-the-badge&logoColor=white" />](https://thenithranjan.web.app/)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                  📫 **Email :**   [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](thenithranjan@gmail.com)
 
 
 ---
