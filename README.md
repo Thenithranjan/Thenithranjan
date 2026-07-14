@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Thenith Ranjan P. S.</h1>
-
-<h3 align="center">
+<h2 align="center">
  Java Full Stack Developer | AI Enthusiast | Problem Solver 🚀
-</h3>
-
+</h2>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Artificial+Intelligence+Enthusiast;Problem+Solver;LeetCode+Ambassador;Always+Learning+New+Technologies"/>
 </p>
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 🎓 **B.E Computer Science & Engineering**
 
